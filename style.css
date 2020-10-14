@@ -1,0 +1,52 @@
+body {
+    background: #000;
+}
+.titel
+{
+    font-size: 1.17rem;
+    font-family: arial;
+    font-weight: bold;
+}
+
+.contol
+{
+    font-weight: bold;
+    color: #aaaaaa;
+}
+
+.one
+{
+    background-image: linear-gradient(#EEE,#FFF);
+    display: flex;
+    font-size: 1.5rem;
+    font-family: arial;
+    font-weight: bold;  
+    color: #333;
+}
+.index
+{
+    display: inline-flex;
+    margin-left: 15px;
+}
+.lababa
+{
+    background-color: #EEE;
+    text-align: center;
+    font-weight: bold;
+    color: #333;
+}
+.adam {
+    font-size: 16px;
+    margin-left: 20px;
+}
+.btn-one-input {
+    margin-top: -7px;
+    margin-left: 10px;
+}
+.name-one {
+    font-size: 22px;
+}
+.ps {
+    margin-top: -30px !important;
+    margin-bottom: 40px !important;
+}
